@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Even If",
+  "base_artist": "valknee",
+  "createdAt": "2026-03-08T07:36:44.797954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Even If It Breaks Your Heart",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/01_Even_If_It_Breaks_Your_Heart_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Even If We Did",
+      "artist": "王若琳",
+      "has_synced": false,
+      "path": "select/02_Even_If_We_Did_王若琳.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Even If",
+      "artist": "Royal Coda",
+      "has_synced": true,
+      "path": "select/03_Even_If_Royal_Coda.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Even If",
+      "artist": "Crowded House",
+      "has_synced": true,
+      "path": "select/04_Even_If_Crowded_House.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Even if You Dream",
+      "artist": "Wang Chung",
+      "has_synced": true,
+      "path": "select/05_Even_if_You_Dream_Wang_Chung.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Even If",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/06_Even_If_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Even If I Try",
+      "artist": "Drew The Architect feat. Bones & drip-133",
+      "has_synced": false,
+      "path": "select/07_Even_If_I_Try_Drew_The_Architect_feat._Bones_&_drip-133.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "even if i try w\u0000 bones & drip-133",
+      "artist": "drew the architect",
+      "has_synced": false,
+      "path": "select/08_even_if_i_try_w\u0000_bones_&_drip-133_drew_the_architect.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Even If I Don't Say",
+      "artist": "Howard Jones",
+      "has_synced": false,
+      "path": "select/09_Even_If_I_Don't_Say_Howard_Jones.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Even If She Falls",
+      "artist": "Blink-182",
+      "has_synced": true,
+      "path": "select/10_Even_If_She_Falls_Blink-182.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Even If I'm Loud It Doesn't Mean I'm Talking to You",
+      "artist": "Tove Styrke",
+      "has_synced": true,
+      "path": "select/11_Even_If_I'm_Loud_It_Doesn't_Mean_I'm_Talking_to_You_Tove_Styrke.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Even If",
+      "artist": "Exilia",
+      "has_synced": false,
+      "path": "select/12_Even_If_Exilia.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Even If It Hurts (It's Alright)",
+      "artist": "Gyllene Tider",
+      "has_synced": true,
+      "path": "select/13_Even_If_It_Hurts_(It's_Alright)_Gyllene_Tider.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(Even If You Die On The) Ocean",
+      "artist": "Saturday Looks Good to Me",
+      "has_synced": false,
+      "path": "select/14_(Even_If_You_Die_On_The)_Ocean_Saturday_Looks_Good_to_Me.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Even If My Heart Would Break",
+      "artist": "Aaron Neville feat. Kenny G",
+      "has_synced": true,
+      "path": "select/15_Even_If_My_Heart_Would_Break_Aaron_Neville_feat._Kenny_G.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Even If My Heart Would Break",
+      "artist": "Kenny G Aaron Neville",
+      "has_synced": true,
+      "path": "select/16_Even_If_My_Heart_Would_Break_Kenny_G_Aaron_Neville.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Even If",
+      "artist": "valknee",
+      "has_synced": false,
+      "path": "select/pl_01_Even_If_valknee.txt"
+    }
+  ]
+}
